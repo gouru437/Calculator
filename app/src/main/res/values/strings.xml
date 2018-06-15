@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="div">÷</string>
+    <string name="x_power_y">X<sup><small>y</small></sup></string>
+    <string name="x_power_2">X<sup><small>2</small></sup></string>
+    <string name="x_power_3">X<sup><small>3</small></sup></string>
+
+</resources>
